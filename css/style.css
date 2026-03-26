@@ -1,0 +1,79 @@
+body{
+    background-color: white;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.header{
+    background-color: black; color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    gap: 10px;
+}
+
+.header:hover{
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+    font-size: 50px;
+    color: white;
+    cursor: pointer;
+    transition: all 1s ease
+}
+
+.nav{
+    background-color: black; color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    gap: 10px;
+}
+
+.main{
+    background-color: black; color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    gap: 10px;
+}
+
+.section{
+    background-color: black; color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    gap: 10px;
+}
+
+.aside{
+    background-color: black; color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    gap: 10px;
+}
+
+.article{
+    background-color: black; color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    gap: 10px;
+}
+
+.footer{
+    background-color: black; color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    gap: 10px;
+}
